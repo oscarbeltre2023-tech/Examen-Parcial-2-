@@ -1,0 +1,17 @@
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\bin\Debug\net10.0-windows\Examen Paarcial 2.exe
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\bin\Debug\net10.0-windows\Examen Paarcial 2.deps.json
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\bin\Debug\net10.0-windows\Examen Paarcial 2.runtimeconfig.json
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\bin\Debug\net10.0-windows\Examen Paarcial 2.dll
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\bin\Debug\net10.0-windows\Examen Paarcial 2.pdb
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen_Paarcial_2.Form1.resources
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen Paarcial 2.csproj.GenerateResource.cache
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen Paarcial 2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen Paarcial 2.AssemblyInfoInputs.cache
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen Paarcial 2.AssemblyInfo.cs
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen Paarcial 2.csproj.CoreCompileInputs.cache
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen Paarcial 2.dll
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\refint\Examen Paarcial 2.dll
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen Paarcial 2.pdb
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen Paarcial 2.genruntimeconfig.cache
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\ref\Examen Paarcial 2.dll
+C:\Users\La\source\repos\Examen Paarcial 2\Examen Paarcial 2\obj\Debug\net10.0-windows\Examen P.15E2B9C0.Up2Date
